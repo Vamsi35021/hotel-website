@@ -37,7 +37,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 10vh;
+    height: 100vh;
     margin: 0;
     background-image: url(blur.jpg);
     background-size: cover;
